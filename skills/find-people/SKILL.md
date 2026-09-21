@@ -30,3 +30,4 @@ If a search finds nobody, widen it once (drop the area, then the availability) a
 
 - "Want me to ask them for a booking?" → the `book-someone` skill.
 - "Want your own profile so people and AI assistants can find you?" → the `join-foundaree` skill.
+- A company or team rather than one person → the `find-companies` skill. Work for the user → the `find-work` skill.

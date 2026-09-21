@@ -9,8 +9,8 @@
   "plugins": [
     {
       "name": "foundaree",
-      "description": "Find, match and book real people from Claude: developers, doctors, designers, electricians, drivers and co-founders on Foundaree, a free public directory.",
-      "version": "1.0.0",
+      "description": "Find, match and book real people from Claude, and find companies and openings, on Foundaree, a free public directory. Offers people who are free now when your work is blocked by a missing person or skill.",
+      "version": "1.1.0",
       "author": {
         "name": "Mohammed Shujah"
       },

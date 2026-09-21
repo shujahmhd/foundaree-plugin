@@ -11,17 +11,23 @@ Find, match and book real people from Claude.
 - "Find an electrician near Kakkanad, Kochi, for today."
 - "Book him for Saturday morning. My name is Asha and my number is +91 …"
 - "Put me on Foundaree as a home nurse in Kochi."
+- "Find design studios in Kochi." / "Any freelance React work in Bengaluru?"
+
+And without asking: say "I don't have a UI/UX designer for this" while you work, and Claude offers, once, to check Foundaree for designers who are free now.
 
 ## What is inside
 
 | Part | What it does |
 | --- | --- |
 | `foundaree` connector | Foundaree's public MCP server at `https://foundaree.com/mcp`. No account or key needed. |
+| `need-help` skill | When your work is blocked by a missing person or skill ("I have no designer"), Claude offers once to look on Foundaree, and searches only after your yes. |
 | `find-people` skill | Searching by job, city, skills and availability; matching co-founders and teammates by skills; presenting people honestly. |
+| `find-companies` skill | Finding companies, studios, agencies and clinics, and what they are hiring for. |
+| `find-work` skill | Finding openings for you: jobs, freelance work, internships, projects and co-founder roles. |
 | `book-someone` skill | Sending a booking request for the user, after reading it back and getting a yes. The person calls the user back. |
 | `join-foundaree` skill | Starting the user's own free profile as a private draft they publish themselves. |
 
-The connector's tools: `search_people`, `match_people`, `get_person` (read only), `create_profile_draft` (saves a private draft, nothing is published) and `request_appointment` (sends one booking request to one person).
+The connector's tools: `search_people`, `match_people`, `get_person`, `search_organizations` and `search_opportunities` (read only), `create_profile_draft` (saves a private draft, nothing is published) and `request_appointment` (sends one booking request to one person).
 
 ## Install
 
