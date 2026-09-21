@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "foundaree",
+  "description": "Foundaree for Claude: find, match and book real people.",
+  "owner": {
+    "name": "Mohammed Shujah",
+    "email": "hello@foundaree.com"
+  },
+  "plugins": [
+    {
+      "name": "foundaree",
+      "description": "Find, match and book real people from Claude: developers, doctors, designers, electricians, drivers and co-founders on Foundaree, a free public directory.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mohammed Shujah"
+      },
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}

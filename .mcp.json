@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "foundaree": {
+      "type": "http",
+      "url": "https://foundaree.com/mcp"
+    }
+  }
+}

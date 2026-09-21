@@ -1,0 +1,13 @@
+{
+  "name": "foundaree",
+  "version": "1.0.0",
+  "description": "Find, match and book real people from Claude: developers, doctors, designers, electricians, drivers and co-founders on Foundaree, a free public directory. Search by work, city, skills and who is free now, send a booking request for the user, or start the user's own profile.",
+  "author": {
+    "name": "Mohammed Shujah",
+    "url": "https://foundaree.com/person/shujah"
+  },
+  "homepage": "https://foundaree.com/for-ai-assistants",
+  "repository": "https://github.com/shujahmhd/foundaree-plugin",
+  "license": "MIT",
+  "keywords": ["people", "directory", "hiring", "freelancers", "co-founder", "local-services", "booking", "mcp"]
+}
