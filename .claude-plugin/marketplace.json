@@ -10,7 +10,7 @@
     {
       "name": "foundaree",
       "description": "Find, match and book real people from Claude, and find companies and openings, on Foundaree, a free public directory. Offers people who are free now when your work is blocked by a missing person or skill.",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "author": {
         "name": "Mohammed Shujah"
       },

@@ -1,7 +1,7 @@
 {
   "name": "foundaree",
-  "version": "1.2.0",
-  "description": "Find, match and book real people from Claude, and find companies and openings: developers, doctors, designers, electricians, drivers and co-founders on Foundaree, a free public directory. When your work is blocked by a missing person or skill, Claude can offer people who are free now. Search by work, city and skills, send a booking request, find jobs and freelance work, or start your own profile.",
+  "version": "1.2.1",
+  "description": "Find, match and book real people from Claude, or hand Foundaree the whole errand: it finds the right people, asks the best one or two, and reports who said yes. Developers, doctors, designers, electricians, drivers, home nurses and co-founders on Foundaree, a free public directory, plus companies and openings. Connect your Foundaree account once and Claude can answer your bookings and connection requests for you. When your work is blocked by a missing person or skill, Claude offers once. Search by work, city and skills, find jobs and freelance work, or start your own profile.",
   "author": {
     "name": "Mohammed Shujah",
     "url": "https://foundaree.com/person/shujah"
@@ -19,6 +19,8 @@
     "booking",
     "jobs",
     "companies",
-    "mcp"
+    "mcp",
+    "assistant",
+    "errand"
   ]
 }
