@@ -20,6 +20,7 @@ And without asking: say "I don't have a UI/UX designer for this" while you work,
 | Part | What it does |
 | --- | --- |
 | `foundaree` connector | Foundaree's public MCP server at `https://foundaree.com/mcp`. No account or key needed. |
+| `sort-it-out` skill | Handing Foundaree the whole errand ("sort out an electrician for Saturday"): it finds, ranks and asks the best one to three people, and later says who accepted. |
 | `need-help` skill | When your work is blocked by a missing person or skill ("I have no designer"), Claude offers once to look on Foundaree, and searches only after your yes. |
 | `find-people` skill | Searching by job, city, skills and availability; matching co-founders and teammates by skills; presenting people honestly. |
 | `find-companies` skill | Finding companies, studios, agencies and clinics, and what they are hiring for. |

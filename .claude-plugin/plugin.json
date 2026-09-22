@@ -1,6 +1,6 @@
 {
   "name": "foundaree",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Find, match and book real people from Claude, and find companies and openings: developers, doctors, designers, electricians, drivers and co-founders on Foundaree, a free public directory. When your work is blocked by a missing person or skill, Claude can offer people who are free now. Search by work, city and skills, send a booking request, find jobs and freelance work, or start your own profile.",
   "author": {
     "name": "Mohammed Shujah",
@@ -9,5 +9,16 @@
   "homepage": "https://foundaree.com/for-ai-assistants",
   "repository": "https://github.com/shujahmhd/foundaree-plugin",
   "license": "MIT",
-  "keywords": ["people", "directory", "hiring", "freelancers", "co-founder", "local-services", "booking", "jobs", "companies", "mcp"]
+  "keywords": [
+    "people",
+    "directory",
+    "hiring",
+    "freelancers",
+    "co-founder",
+    "local-services",
+    "booking",
+    "jobs",
+    "companies",
+    "mcp"
+  ]
 }
